@@ -1,7 +1,10 @@
 import React from "react";
-import "./App.css";
-
+import SideNav from "./SideNav";
 function App() {
-  return <h1>测所</h1>;
+  return (
+    <div>
+      <SideNav />
+    </div>
+  );
 }
 export default App;
