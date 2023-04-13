@@ -5,7 +5,7 @@ import "./App.css";
 function SideNav() {
   return (
     <div>
-      <img src={ToiletUrl} alt="toilet desu" />
+      <img src={ToiletUrl} alt="toilet desu" height="50" width="50" />
       <nav>
         <ul>
           <li>
